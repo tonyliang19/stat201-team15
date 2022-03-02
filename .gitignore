@@ -2,6 +2,8 @@
 .Rhistory
 .Rapp.history
 
+# ipynb checkpoints
+**.ipynb_checkpoints 
 # Session Data files
 .RData
 
