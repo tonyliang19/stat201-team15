@@ -4,6 +4,7 @@
 
 # ipynb checkpoints
 **.ipynb_checkpoints 
+**.virtual_documents
 # Session Data files
 .RData
 
