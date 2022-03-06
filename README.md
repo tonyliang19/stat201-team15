@@ -8,4 +8,4 @@ Group members are:
 * Minghao Wang
 
 
-This projects is licensed under the (MIT License)[https://github.com/tonyliang19/stat201-team15/blob/main/LICENSE].
+This projects is licensed under the [MIT License](https://github.com/tonyliang19/stat201-team15/blob/main/LICENSE).
